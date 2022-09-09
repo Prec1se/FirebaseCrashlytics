@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059645227702",
+    "project_id": "bloodhub-1a462",
+    "storage_bucket": "bloodhub-1a462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059645227702:android:d80659975eff97964d5c17",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059645227702-fuhvtsbkcfrifa39etfn4fv3fifusksa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9HKGRUnh_4fcm08r5At7_5USExCV1Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059645227702-fuhvtsbkcfrifa39etfn4fv3fifusksa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
